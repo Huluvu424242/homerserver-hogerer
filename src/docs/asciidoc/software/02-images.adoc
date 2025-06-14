@@ -4,7 +4,7 @@
 
 IMPORTANT: Bevor ihr ein Betriebssystem in Form eines images installiert, solltet Ihr den Pi zusammengebaut
 und angeschlossen haben. Wie das geht habe ich beschrieben
-in xref:../hardware/raspi4b/01-montageanleitung.adoc[Raspberry Pi 4 Model B zusammenbauen].
+in xref:../vorwort/raspi4b/01-montageanleitung.adoc[Raspberry Pi 4 Model B zusammenbauen].
 
 Als erstes benötigt Ihr eine SD Karte, ich habe eine 32 GB große genutzt aber das sollte auch deutlich kleiner gehen.
 Generell würde ich immer ein Betriebssystem ohne Desktop aufsetzen (aktuell unter dem Namen "Raspberry Pi OS Lite" gehandelt),
