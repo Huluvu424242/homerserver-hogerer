@@ -26,9 +26,8 @@ image::Homeserver-Hogererstammtisch.webp[Homeserver Hogererstammtisch,1024,1024]
 
 include::01-vorwort.adoc[]
 
-include::software/01-uebersicht.adoc[]
+include::02-raspi.adoc[]
 
-include::projekte/01-uebersicht.adoc[]
 
 
 // ## Metadaten
